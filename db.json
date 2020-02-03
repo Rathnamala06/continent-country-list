@@ -1,40 +1,50 @@
 {
     "Continent": [
         { 
-            "Asia": ["India","Pakistan"]
+            "name": "Asia",
+            "countries": [
+                "India",
+                "Pakistan"
+            ]
         },
         {
-            "Europe": [
+            "name": "Europe",
+            "countries": [
                 "India",
                 "Pakistan" 
             ]
         },
         {
-            "Africa": [
+            "name": "Africa",
+            "countries": [
                 "India",
                 "Pakistan"
             ]
         },
         {
-            "North America": [
+            "name": "North America",
+            "countries": [
                 "India",
                 "Pakistan"
             ]
         },
         {
-            "South America": [
+            "name": "South America",
+            "countries": [
                 "India",
                 "Pakistan"
             ]
         },
         {
-            "Antarctica": [
+            "name": "Antarctica",
+            "countries": [
                 "India",
                 "Pakistan"
             ]
         },
         {
-            "Australia": [
+            "name": "Australia",
+            "countries": [
                 "India",
                 "Pakistan"
             ]
